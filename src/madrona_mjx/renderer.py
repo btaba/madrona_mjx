@@ -138,7 +138,7 @@ class BatchRenderer:
         num_worlds = num_worlds,
         batch_render_view_width = batch_render_view_width,
         batch_render_view_height = batch_render_view_height,
-        add_cam_debug_geo=add_cam_debug_geo,
+        #add_cam_debug_geo=add_cam_debug_geo,
         visualizer_gpu_handles = viz_gpu_hdls,
     )
 
